@@ -1,4 +1,4 @@
-name: Windows - RustDesk
+name: Silent
 
 on:
   workflow_dispatch:
